@@ -1,0 +1,20 @@
+backend/.idea/
+backend/febs_shiro_jwt.iml
+backend/target/
+backend/log/
+backend/src/main/resources/mapper
+
+frontend/.DS_Store
+frontend/node_modules
+frontend/dist/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/test/unit/coverage
+frontend/test/e2e/reports
+frontend/selenium-debug.log
+
+# Editor directories and files
+frontend/.idea
+frontend/.vscode
+frontend/package-lock.json
