@@ -1,8 +1,6 @@
-<p><img align="center" src="https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/%E5%90%88%E4%BD%9C%E7%89%A9%E6%96%99%E6%A0%B7%E5%BC%8F%20(3).png" alt="fankekeke" /></p>
-
 ### 基于SpringBoot + Vue停车场车位出租系统.
 
-停车场管理系统、车位租赁平台、智能停车系统、车位预约系统、共享停车位平台
+停车场管理系统、车位租赁平台、智能停车系统、车位预约系统
 
 ##### 管理员/工作人员功能模块介绍：
 系统公告：发布和管理面向用户的停车相关通知与公告。
@@ -135,3 +133,4 @@ WeChat: `Storm_Berserker`
 
 More info: [悲伤的橘子树](https://berserker287.github.io/)
 
+<p><img align="center" src="https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/%E5%90%88%E4%BD%9C%E7%89%A9%E6%96%99%E6%A0%B7%E5%BC%8F%20(3).png" alt="fankekeke" /></p>
